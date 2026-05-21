@@ -93,12 +93,11 @@ Batch removal automation using ADB and Appium.
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=akifemrebagis1&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6C63&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" width="70%" />
-  </a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akifemrebagis1)](https://git.io/streak-stats)  </a>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akifemrebagis1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akifemrebagis1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&titakle_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akifemrebagis1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
 </p>
 
